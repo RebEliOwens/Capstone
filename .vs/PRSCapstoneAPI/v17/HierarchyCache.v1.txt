@@ -1,0 +1,318 @@
+﻿++Solution 'PRSCapstoneAPI' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:PRSCapstoneAPI.sln
+++PRSCapstoneAPI
+i:{00000000-0000-0000-0000-000000000000}:PRSCapstoneAPI
+++Connected Services 
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:>231
+++SQL Server Database (ConnectionStrings:AppDbContext)
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:>259
+++Dependencies
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:>230
+++Analyzers
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:analyzers
+++Frameworks
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:frameworks
+++Packages
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:packages
+++Properties
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\properties\
+++launchSettings.json
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\properties\launchsettings.json
+++Migrations
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\migrations\
+++20220519133537_init.cs
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\migrations\20220519133537_init.cs
+++20220519140625_added all classes.cs
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\migrations\20220519140625_added all classes.cs
+++AppDbContextModelSnapshot.cs
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\migrations\appdbcontextmodelsnapshot.cs
+++Models
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\models\
+++AppDbContext.cs
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\models\appdbcontext.cs
+++Product.cs
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\models\product.cs
+++Request.cs
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\models\request.cs
+++RequestLine.cs
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\models\requestline.cs
+++User.cs
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\models\user.cs
+++Vendor.cs
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\models\vendor.cs
+++appsettings.json
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\appsettings.json
+++appsettings.Development.json
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\appsettings.development.json
+++Program.cs
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\program.cs
+++SQL Server Database dependency with connectionId 'ConnectionStrings:AppDbContext' is detected
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:>260
+++Microsoft.AspNetCore.Analyzers
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\users\rebecca.owens\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.5)
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:>243
+++Microsoft.EntityFrameworkCore.Tools (6.0.5)
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:>244
+++20220519133537_init.Designer.cs
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\migrations\20220519133537_init.designer.cs
+++20220519140625_added all classes.Designer.cs
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\migrations\20220519140625_added all classes.designer.cs
+++bin
+++Debug
+++net6.0
+++runtimes
+++Humanizer.dll
+++Microsoft.Data.SqlClient.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+++Microsoft.EntityFrameworkCore.Design.dll
+++Microsoft.EntityFrameworkCore.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+++Microsoft.EntityFrameworkCore.SqlServer.dll
+++Microsoft.Extensions.Caching.Memory.dll
+++Microsoft.Identity.Client.dll
+++Microsoft.IdentityModel.JsonWebTokens.dll
+++Microsoft.IdentityModel.Logging.dll
+++Microsoft.IdentityModel.Protocols.dll
+++Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+++Microsoft.IdentityModel.Tokens.dll
+++Microsoft.Win32.SystemEvents.dll
+++PRSCapstoneAPI.deps.json
+++PRSCapstoneAPI.dll
+++PRSCapstoneAPI.exe
+++PRSCapstoneAPI.pdb
+++PRSCapstoneAPI.runtimeconfig.json
+++System.Configuration.ConfigurationManager.dll
+++System.Drawing.Common.dll
+++System.IdentityModel.Tokens.Jwt.dll
+++System.Runtime.Caching.dll
+++System.Security.Cryptography.ProtectedData.dll
+++System.Security.Permissions.dll
+++System.Windows.Extensions.dll
+++unix
+++win
+++win-arm
+++win-arm64
+++win-x64
+++win-x86
+++lib
+++native
+++netcoreapp3.0
+++netcoreapp3.1
+++netstandard2.0
+++Microsoft.Data.SqlClient.SNI.dll
+++Controllers
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\controllers\
+++obj
+++project.assets.json
+++project.nuget.cache
+++PRSCapstoneAPI.csproj.nuget.dgspec.json
+++PRSCapstoneAPI.csproj.nuget.g.props
+++PRSCapstoneAPI.csproj.nuget.g.targets
+++staticwebassets.pack.sentinel
+++ref
+++refint
+++staticwebassets
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+++apphost.exe
+++PRSCapstoneAPI.AssemblyInfo.cs
+++PRSCapstoneAPI.AssemblyInfoInputs.cache
+++PRSCapstoneAPI.assets.cache
+++PRSCapstoneAPI.csproj.AssemblyReference.cache
+++PRSCapstoneAPI.csproj.CopyComplete
+++PRSCapstoneAPI.csproj.CoreCompileInputs.cache
+++PRSCapstoneAPI.csproj.FileListAbsolute.txt
+++PRSCapstoneAPI.GeneratedMSBuildEditorConfig.editorconfig
+++PRSCapstoneAPI.genruntimeconfig.cache
+++PRSCapstoneAPI.GlobalUsings.g.cs
+++PRSCapstoneAPI.MvcApplicationPartsAssemblyInfo.cache
+++staticwebassets.build.json
+++Imports
+++Sdk.props
+++Sdk.targets
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk\Sdk)
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk\Sdk)
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+++Microsoft.Common.props
+++Microsoft.NET.Sdk.props
+++Sdk.Razor.CurrentVersion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+++Microsoft.NET.Sdk.Publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+++Microsoft.CSharp.targets
+++Microsoft.NET.Sdk.targets
+++Microsoft.NET.Compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+++Sdk.Razor.CurrentVersion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+++Microsoft.NuGet.ImportBefore.props
+++NuGet.props
+++Microsoft.NET.Sdk.DefaultItems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+++Microsoft.NET.SupportedPlatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+++Microsoft.NET.ILLink.props
+++Microsoft.NET.Compatibility.props
+++Microsoft.NET.PackTool.props
+++Microsoft.NET.PackProjectTool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+++Microsoft.NET.Windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+++Microsoft.TypeScript.Default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+++Microsoft.Managed.Before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+++Microsoft.Managed.After.targets
+++Microsoft.NET.Sdk.Common.targets
+++Microsoft.PackageDependencyResolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+++Microsoft.NET.DesignerSupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+++Microsoft.NET.ComposeStore.targets
+++Microsoft.NET.CrossGen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+++Microsoft.NET.Publish.targets
+++Microsoft.NET.PackTool.targets
+++Microsoft.NET.PackProjectTool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+++Microsoft.NET.ConflictResolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+++Microsoft.NET.ILLink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+++Microsoft.NET.Sdk.Razor.SourceGenerators.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.targets
+++Microsoft.NET.Sdk.Razor.JSModules.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+++Microsoft.TypeScript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+++Microsoft.Web.Designtime.targets
+++Default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+++Microsoft.EntityFrameworkCore.Design.props
+++Microsoft.NuGet.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain)
+++Microsoft.CSharp.Core.targets
+++Microsoft.CSharp.DesignTime.targets
+++Microsoft.Common.targets
+++Microsoft.ServiceModel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+++Microsoft.NET.ILLink.Tasks.props
+++System.Windows.Forms.Analyzers.props
+++Microsoft.Managed.Core.targets
+++Microsoft.Managed.DesignTime.targets
+++Microsoft.Common.CurrentVersion.targets
+++Microsoft.Managed.Core.CurrentVersions.targets
+++Microsoft.NET.props
+++Microsoft.CodeAnalysis.targets
+++Microsoft.Xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+++Microsoft.TeamTest.targets
+++NuGet.targets
+++Microsoft.Docker.ImportAfter.targets
+++Microsoft.NET.Build.Extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+++Microsoft.Web.ImportAfter.targets
+++Microsoft.Docker.targets
+++Microsoft.Web.IISSupport.targets
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.5)
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:>404
+++Swashbuckle.AspNetCore (6.3.0)
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:>405
+++MessagePackAnalyzer
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\users\rebecca.owens\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\users\rebecca.owens\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\users\rebecca.owens\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++UsersController.cs
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\controllers\userscontroller.cs
+++VendorsController.cs
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\controllers\vendorscontroller.cs
+++ProductsController.cs
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\controllers\productscontroller.cs
+++RequestsController.cs
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\controllers\requestscontroller.cs
+++RequestLinesController.cs
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\controllers\requestlinescontroller.cs
+++20220519161825_just because.cs
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\migrations\20220519161825_just because.cs
+++20220519161825_just because.Designer.cs
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\migrations\20220519161825_just because.designer.cs
+++Po.cs
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\models\po.cs
+++PoLine.cs
+++Poline.cs
+i:{6f87c159-9ca4-439d-b6ad-81e40fede3c0}:c:\repos\test\prscapstoneapi\prscapstoneapi\models\poline.cs
