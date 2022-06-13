@@ -62,6 +62,7 @@ namespace PRSCapstoneAPI.Controllers
                             select new
                             {
                                 ProductId = p.Id,
+                                PartNbr = p.PartNbr,
                                 Product = p.Name,
                                 rl.Quantity,
                                 p.Price,
@@ -76,6 +77,7 @@ namespace PRSCapstoneAPI.Controllers
                     var poline = new Poline()
                     {
                         Product = result.Product,
+                        PartNbr= result.PartNbr,
                         Quantity = 0,
                         Price = result.Price,
                         LineTotal = 0

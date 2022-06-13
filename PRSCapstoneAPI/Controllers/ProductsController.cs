@@ -39,7 +39,7 @@ namespace PRSCapstoneAPI.Controllers
           {
               return NotFound();
           }
-            var product = await _context.Products.FindAsync(id);
+            var product = await _context.Products.Include(x => x.Vendor).SingleOrDefaultAsync(x => x.Id == id);
 
             if (product == null)
             {

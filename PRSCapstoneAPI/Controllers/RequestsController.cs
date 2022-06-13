@@ -56,7 +56,7 @@ namespace PRSCapstoneAPI.Controllers
         [HttpGet("reviews/{userId}")]
         public async Task<ActionResult<IEnumerable<Request>>> GetReviewedRequests(int userId)
         {
-            var requests = await _context.Requests.Where(x => x.Status == APPROVED && x.UserId != userId).ToListAsync();
+            var requests = await _context.Requests.Include(x => x.User).Where(x => x.Status == REVIEW && x.UserId != userId).ToListAsync();
             if (requests is null)
             {
                 return NotFound();

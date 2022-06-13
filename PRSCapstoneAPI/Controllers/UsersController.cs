@@ -49,7 +49,7 @@ namespace PRSCapstoneAPI.Controllers
             return user;
         }
 
-        [HttpGet("login/{username}/{password}")]
+        [HttpGet("{username}/{password}")]
         public async Task<ActionResult<User>> Login(string username, string password)
         { 
             var user = await _context.Users.FirstOrDefaultAsync(x => x.Username == username && x.Password == password);

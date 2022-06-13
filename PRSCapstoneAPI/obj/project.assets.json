@@ -9665,11 +9665,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\test\\PRSCapstoneAPI\\PRSCapstoneAPI\\PRSCapstoneAPI.csproj",
+      "projectUniqueName": "C:\\repos\\PRSCapstoneAPI\\PRSCapstoneAPI\\PRSCapstoneAPI.csproj",
       "projectName": "PRSCapstoneAPI",
-      "projectPath": "C:\\repos\\test\\PRSCapstoneAPI\\PRSCapstoneAPI\\PRSCapstoneAPI.csproj",
+      "projectPath": "C:\\repos\\PRSCapstoneAPI\\PRSCapstoneAPI\\PRSCapstoneAPI.csproj",
       "packagesPath": "C:\\Users\\rebecca.owens\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\test\\PRSCapstoneAPI\\PRSCapstoneAPI\\obj\\",
+      "outputPath": "C:\\repos\\PRSCapstoneAPI\\PRSCapstoneAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rebecca.owens\\AppData\\Roaming\\NuGet\\NuGet.Config",
